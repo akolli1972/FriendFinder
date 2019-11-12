@@ -1,0 +1,29 @@
+h1,
+h2,
+h3,
+p {
+  width: 100%;
+  text-align: justify;
+  margin-left: 50px;
+}
+select {
+  margin-left: 50px;
+  width: 50%;
+}
+#name {
+  margin-left: 50px;
+  width: 75%;
+}
+#photo {
+  margin-left: 50px;
+  width: 75%;
+}
+p {
+  font-style: italic;
+  font-size: 30px;
+  color: green;
+}
+hr {
+  text-align: left;
+  margin-right: 100px;
+}
