@@ -4,7 +4,7 @@
   "description": "Find your bestie using a survey",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.17.3"
   },
   "devDependencies": {},
   "scripts": {
